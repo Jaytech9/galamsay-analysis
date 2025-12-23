@@ -176,7 +176,7 @@ The SQLite database contains three tables:
 
 ## Author
 
-**The Ghost Packet**  
+**Jones Kwamehene**  
 Cybersecurity Professional & Software Developer
 
 ## License
